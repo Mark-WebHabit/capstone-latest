@@ -1,0 +1,3 @@
+change the url in backend/env
+remove the console.log in server.js upon app.listen
+change the whitelist in corsoptions
